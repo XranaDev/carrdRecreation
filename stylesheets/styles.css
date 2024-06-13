@@ -19,7 +19,7 @@ body{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   border-radius: 30px;/*rounded corners*/
-  background-color: #ffbf83;
+  background-color: #040778;
 }
 
 /* On mouse-over, add a deeper shadow */
@@ -70,7 +70,7 @@ hr.divider {
   display: inline-block;
   width: 1em;
   height: 1em;
-  background: #ffead7;
+  background: #040778;
   color: #040778;
 }
 .flex-container {
